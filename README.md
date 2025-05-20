@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Max Benin
+## 👋 Hello! I'm Max
 
 ### 💻 Senior Software Engineer | Backend Specialist | Java & Cloud Enthusiast
 
